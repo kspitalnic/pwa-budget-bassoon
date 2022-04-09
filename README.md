@@ -20,12 +20,9 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 
 # Resources
-heroku deploy https://limitless-headland-64911.herokuapp.com/
+Deployed Application: https://limitless-headland-64911.herokuapp.com/
 
-
-heroku git https://git.heroku.com/limitless-headland-64911.git
-
-github repo https://github.com/kspitalnic/pwa-budget-bassoon
+Github Repo: https://github.com/kspitalnic/pwa-budget-bassoon
 <br/>
 
 Screenshot: <img src='screenshot.png'>
