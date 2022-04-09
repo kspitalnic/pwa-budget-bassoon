@@ -1,4 +1,4 @@
-# Budget Tracker Starter Code
+# Budget Tracker 
 
 This Progressive Web Application allows users to track their money and access this information at any time, even when they are offline. 
 
